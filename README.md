@@ -1,2 +1,2 @@
-# Trouble-on-Beryl-Island
-A tropical open-world 3D Platformer inspired by Mario Sunshine. Climb buildings, collect treasures, fight baddies, and relax in the sun!
+<p align="center"><img width="420" height="220" src=images/first-view.webp></img></p>
+<div align="center"><b>Fig 1. Basic Decision Tree</b></div>
