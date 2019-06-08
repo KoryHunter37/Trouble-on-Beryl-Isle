@@ -1,3 +1,7 @@
+# Trouble on Beryl Island
+
+<img src="images/splash-art.png" width="960" height="540">
+
 <div class="row"> 
   <div class="column">
     <img src="images/first-view.webp" width="400" height="225">
