@@ -13,3 +13,7 @@
     <img src="images/first-view.webp" width="270" height="270">
   </div> 
 </div>
+
+<div style="color: blue">
+  This text is BLUE.
+</div>
