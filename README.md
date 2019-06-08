@@ -5,11 +5,11 @@
 
 <div class="row"> 
   <div class="column">
-    <img src="images/first-view.webp">
-    <img src="images/first-view.webp">
+    <img src="images/first-view.webp" width="540" height="540">
+    <img src="images/first-view.webp" width="540" height="540">
   </div>
   <div class="column">
-    <img src="images/first-view.webp">
-    <img src="images/first-view.webp">
+    <img src="images/first-view.webp" width="540" height="540">
+    <img src="images/first-view.webp" width="540" height="540">
   </div> 
 </div>
