@@ -1,4 +1,4 @@
-# Trouble on Beryl Island
+# Trouble on Beryl Isle
 
 <p align="center"><img src="images/splash-art.png" width="960" height="406"></p>
 
