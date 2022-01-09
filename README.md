@@ -10,7 +10,7 @@ Climb buildings, collect treasures, fight baddies, and relax in the sun!
 
 ## Download
 
-Head on over to the **[Releases Tab](https://github.com/KouriiRaiko/Trouble-on-Beryl-Isle/releases)** to download the full game!
+Head on over to the **[Releases Tab](https://github.com/KoryHunter37/Trouble-on-Beryl-Isle/releases)** to download the full game!
 
 
 ## Gallery
